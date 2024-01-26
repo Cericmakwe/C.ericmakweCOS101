@@ -1,0 +1,2 @@
+| Name            | Year Founded | Shares     | Liabilities | Leverage | Percentage Leverage | Percentage Leverage Multiplier | Bonus      |
+| Cadbury         | 1965         | 1000000    | 500000     | 0.50     | 50.00              | 100.00                 | 2.50       |

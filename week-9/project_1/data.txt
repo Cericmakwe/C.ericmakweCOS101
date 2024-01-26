@@ -1,0 +1,9 @@
+Company: Cadbury
+Year Founded: 2000
+Shares: 2000000
+Liabilities: 1000000
+Leverage: 2.00
+Percentage Leverage: 0.02
+Percentage Leverage Multiplier: 0.02
+Bonus: 98.00
+
